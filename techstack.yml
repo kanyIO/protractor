@@ -1,0 +1,1147 @@
+repo_name: kanyIO/protractor
+report_id: 7363bc359f119646df358e7225e5cb19
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-21T12:49:25+00:00'
+requested_by: josephperrott
+provider: github
+branch: master
+detected_tools_count: 81
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/kanyIO/protractor
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kanyIO/protractor
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/kanyIO/protractor
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julie
+  last_updated_on: 2013-02-23 00:08:41.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/bower.json
+  detection_source: website/bower.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.16.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2020-04-16 20:41:56.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/exampleTypescript/package.json
+  detection_source: exampleTypescript/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-07-07 19:20:52.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 5.4.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2016-03-04 21:51:29.000000000 Z
+- name: Bower
+  description: A package manager for the web
+  website_url: http://bower.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: BrowserStack
+  description: BrowserStack is a software testing platform for developers to comprehensively
+    test websites and mobile applications
+  website_url: http://www.browserstack.com
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/182/default_baf5833806936d0d160465c15805e984fd613134.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Hitesh Raghuvanshi
+  last_updated_on: 2018-07-13 21:21:23.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Julie
+  last_updated_on: 2013-02-23 00:08:41.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Craig Nishina
+  last_updated_on: 2018-11-09 00:02:49.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kanyIO/protractor
+  detection_source: Repo Metadata
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 3.3.1
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: example/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-02 23:43:13.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 0.12.37
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-03-23 01:10:12.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julie
+  last_updated_on: 2013-02-23 00:08:41.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package.json
+  detection_source: example/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-02 23:43:13.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julie
+  last_updated_on: 2013-02-23 00:08:41.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Keen Yee Liau
+  last_updated_on: 2020-04-15 17:26:45.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2018-12-13 08:05:21.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package.json
+  detection_source: website/package.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-03-23 01:10:12.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/kanyIO/protractor
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-08-19 18:56:26.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/http"
+  description: Angular - the http service
+  package_url: https://www.npmjs.com/@angular/http
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15977/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@angular/upgrade"
+  description: Angular - the library for easing update from v1 to v2
+  package_url: https://www.npmjs.com/@angular/upgrade
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17266/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@types/angular"
+  description: TypeScript definitions for Angular JS
+  package_url: https://www.npmjs.com/@types/angular
+  version: 1.6.39
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17435/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@types/chalk"
+  description: Stub TypeScript definitions entry for chalk
+  package_url: https://www.npmjs.com/@types/chalk
+  version: 0.4.31
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16547/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/core-js"
+  description: TypeScript definitions for core-js
+  package_url: https://www.npmjs.com/@types/core-js
+  version: 0.9.43
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16420/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 5.0.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: exampleTypescript/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/minimatch"
+  description: TypeScript definitions for Minimatch
+  package_url: https://www.npmjs.com/@types/minimatch
+  version: 2.0.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17630/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 6.0.96
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: exampleTypescript/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-06 06:39:32.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2020-04-11 17:03:11.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.18.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-03-23 01:10:12.000000000 Z
+- name: bower
+  description: The browser package manager
+  package_url: https://www.npmjs.com/bower
+  version: 1.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16205/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+  vulnerabilities:
+  - name: Symlink Arbitrary File Overwrite in bower
+    cve_id: CVE-2019-5484
+    cve_url: https://github.com/advisories/GHSA-p6mr-pxg4-68hx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.8
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  version: 5.3.0
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: heathkit
+  last_updated_on: 2017-10-18 22:26:27.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-08-19 18:56:26.000000000 Z
+- name: clang-format
+  description: Node wrapper around clang-format
+  package_url: https://www.npmjs.com/clang-format
+  version: 1.0.49
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18178/default_d3a7b83d655e8a05ff3ca4b53648a053e1d909b2.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: qiyi
+  last_updated_on: 2018-01-24 19:41:40.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-09-14 07:44:00.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
+- name: esprima
+  description: ECMAScript parsing infrastructure for multipurpose analysis
+  package_url: https://www.npmjs.com/esprima
+  version: 4.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Julie Ralph
+  last_updated_on: 2015-09-28 23:01:03.000000000 Z
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2016-02-02 22:53:43.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.16.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2020-04-16 20:41:56.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-08-19 18:56:26.000000000 Z
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-connect
+  description: Gulp plugin to run a webserver
+  package_url: https://www.npmjs.com/gulp-connect
+  version: 2.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16446/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-less
+  description: Less for Gulp
+  package_url: https://www.npmjs.com/gulp-less
+  version: 1.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16267/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-replace
+  description: A string replace plugin for gulp
+  package_url: https://www.npmjs.com/gulp-replace
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+- name: gulp-tslint
+  description: TypeScript linter Gulp plugin
+  package_url: https://www.npmjs.com/gulp-tslint
+  version: 8.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16464/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2018-12-13 08:05:21.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 0.1.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 0.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/package-lock.json
+  detection_source: website/package.json
+  last_updated_by: Sammy Jelin
+  last_updated_on: 2015-11-10 04:36:15.000000000 Z
+- name: lite-server
+  description: Lightweight development node server for serving a web app
+  package_url: https://www.npmjs.com/lite-server
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16577/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-12-07 23:30:33.000000000 Z
+  vulnerabilities:
+  - name: lite-server vulnerable to Denial of Service
+    cve_id: CVE-2022-25940
+    cve_url: https://github.com/advisories/GHSA-89w7-5q45-r53w
+    detected_date: Dec 21
+    severity: high
+    first_patched: 
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 0.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2016-02-02 22:53:43.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-09-14 07:44:00.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig
+  last_updated_on: 2016-07-11 23:49:19.000000000 Z
+- name: selenium-webdriver
+  description: The official WebDriver JavaScript bindings from the Selenium project
+  package_url: https://www.npmjs.com/selenium-webdriver
+  version: 4.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2020-04-11 17:03:11.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Julie Ralph
+  last_updated_on: 2016-09-13 16:40:38.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.4.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig
+  last_updated_on: 2017-01-09 22:43:57.000000000 Z
+- name: systemjs
+  description: Dynamic ES module loader
+  package_url: https://www.npmjs.com/systemjs
+  version: 0.19.27
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16299/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: Sammy Jelin
+  last_updated_on: 2016-11-23 18:53:13.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/exampleTypescript/package.json
+  detection_source: exampleTypescript/package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2019-04-02 23:30:41.000000000 Z
+- name: tslint-eslint-rules
+  description: Improve your TSLint with the missing ESLint Rules
+  package_url: https://www.npmjs.com/tslint-eslint-rules
+  version: 5.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16403/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Craig Nishina
+  last_updated_on: 2018-12-13 08:05:21.000000000 Z
+- name: webdriver-manager
+  description: A selenium server and browser driver manager for your end to end tests
+  package_url: https://www.npmjs.com/webdriver-manager
+  version: 13.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18098/image.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2020-04-11 17:03:11.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 12.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/example/package-lock.json
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2020-04-11 17:03:11.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.8.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/testapp/package-lock.json
+  detection_source: testapp/package.json
+  last_updated_by: qiyigg
+  last_updated_on: 2017-10-02 17:56:03.000000000 Z
+- name: angular
+  description: Bower package for AngularJS
+  package_url: http://bower.io/angular
+  version: 1.3.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/bower.json
+  detection_source: website/bower.json
+  last_updated_by: Andres Dominguez
+  last_updated_on: 2014-12-20 19:59:23.000000000 Z
+- name: angular-mocks
+  description: Angular-mocks.js bower repo
+  package_url: http://bower.io/angular-mocks
+  version: 1.3.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/bower.json
+  detection_source: website/bower.json
+  last_updated_by: Andres Dominguez
+  last_updated_on: 2014-12-20 19:59:23.000000000 Z
+- name: angular-route
+  description: Angular-route bower repo
+  package_url: http://bower.io/angular-route
+  version: 1.3.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/bower.json
+  detection_source: website/bower.json
+  last_updated_by: Andres Dominguez
+  last_updated_on: 2014-12-20 19:59:23.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/kanyIO/protractor/blob/master/website/bower.json
+  detection_source: website/bower.json
+  last_updated_by: andres
+  last_updated_on: 2014-08-08 01:37:06.000000000 Z
