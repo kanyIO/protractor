@@ -2,7 +2,7 @@ repo_name: kanyIO/protractor
 report_id: 7363bc359f119646df358e7225e5cb19
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-21T12:49:25+00:00'
+timestamp: '2024-02-29T19:32:12+00:00'
 requested_by: josephperrott
 provider: github
 branch: master
@@ -138,8 +138,8 @@ tools:
   last_updated_by: Craig
   last_updated_on: 2016-12-07 23:30:33.000000000 Z
 - name: BrowserStack
-  description: BrowserStack is a software testing platform for developers to comprehensively
-    test websites and mobile applications
+  description: BrowserStack is the leading test platform built for developers &amp;
+    QAs to expand test coverage, scale, &amp; optimize testing
   website_url: http://www.browserstack.com
   open_source: false
   hosted_saas: true
